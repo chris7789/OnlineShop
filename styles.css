@@ -1,0 +1,118 @@
+
+
+#banner{
+
+	display: block;
+ 	margin-left: auto;
+    margin-right: auto;
+
+    
+
+}
+
+
+#contenedorBanner{
+
+	margin-top: 25px;
+	margin-bottom: 23px;
+	
+
+}
+
+
+#formulario{
+
+	
+ 	justify-content: space-around;
+
+}
+
+#inputForm{
+
+
+	border-color: rgb(207,119,119);
+	width: 240px;
+	margin-bottom: 27px;
+	margin-left: auto;
+    margin-right: auto;
+    border-radius: 26px;
+    font-size: 20px;
+    padding: 22px;
+
+
+
+
+}
+
+
+#or{
+
+
+	color: #999997;
+	line-height: normal;
+
+}
+
+
+#buttonForm{
+
+	font-size: 20px;
+	padding: 11px 35px;
+	border-radius: 26px;
+
+}
+
+#grayBarLeft{
+
+	
+	height: 5px;
+	width: 152px;
+	border-bottom: 3px solid rgba(65, 65, 65, 0.56);
+	
+
+}
+
+#grayBarRight{
+
+	height: 5px;
+	width: 152px;
+	border-bottom: 3px solid rgba(65, 65, 65, 0.56);
+
+
+}
+
+#orContain{
+
+
+	
+
+	margin-left: 10px;
+    margin-right: 10px;
+    
+  
+	
+
+}
+
+#barContainer{
+
+
+	  display: flex;
+  	  justify-content: center;
+
+	
+
+}
+
+
+#barLcontain{
+	
+	margin-top: 35px;
+}
+
+#barRcontain{
+
+	margin-top: 35px;
+	
+}
+
